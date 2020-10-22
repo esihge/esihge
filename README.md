@@ -8,7 +8,7 @@ Summary: The goal of this project is to train a robust neural network with desir
 - NumPy
 - PyTorch 1.6 
 - Scipy
-- netowrkx
+- networkx
 - json
 
 
