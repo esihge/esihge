@@ -26,3 +26,13 @@ Summary: The goal of this project is to train a robust neural network with desir
     $ pip install -r requirements.txt
     ```
 ---
+
+
+#### Arguments:
+* ```lr```: learning rate for the inference network
+* ```dropout```: Dropout rate (1 - keep probability).
+* ```epochs```: number of epochs to train the model. 
+* ```c```: constant  negative  curvature
+* ```K```: semi-implicit vi hyperparameters
+* ```J```: semi-implicit vi hyperparameters
+* ```dataset-str```: synthetic, cora, citeseer, or pubmed
