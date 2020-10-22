@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+
+# modified from https://scikit-image.org/docs/stable/auto_examples/edges/plot_random_shapes.html
 import math
 import numpy as np
 from skimage.draw import circle
