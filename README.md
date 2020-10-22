@@ -1,9 +1,5 @@
 # Hyperbolic Graph Embedding with Enhanced Semi-Implicit Variational Inference
 
-Author: -
-
-Summary: The goal of this project is to train a robust neural network with desire clean inputs accuracy. 
-
 ### Requirements
 - NumPy
 - PyTorch 1.6 
