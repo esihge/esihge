@@ -1,16 +1,22 @@
-### Hi there 👋
+# Repo of: Hyperbolic Graph Embedding withEnhanced Semi-Implicit Variational Inference
 
-<!--
-**esihge/esihge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Author: -
 
-Here are some ideas to get you started:
+Summary: The goal of this project is to train a robust neural network with desire clean inputs accuracy. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Requirements
+- NumPy
+- PyTorch 1.6 
+- Scipy
+- netowrkx
+- json
+
+
+```pip install -r requirements.txt``` 
+
+### How to Train
+
+
+```bash
+python main.py
+```
