@@ -1,4 +1,4 @@
-# Repo of: Hyperbolic Graph Embedding with Enhanced Semi-Implicit Variational Inference
+# Hyperbolic Graph Embedding with Enhanced Semi-Implicit Variational Inference
 
 Author: -
 
