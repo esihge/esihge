@@ -14,9 +14,15 @@ Summary: The goal of this project is to train a robust neural network with desir
 
 ```pip install -r requirements.txt``` 
 
-### How to Train
+### Installing
 
-
-```bash
-python main.py
-```
+1. Clone the repository:
+    ```shell
+    $ git clone https://github.com/esihge/esihge
+    $ cd esihge
+    ```
+2. Install requirements:
+    ```shell
+    $ pip install -r requirements.txt
+    ```
+---
